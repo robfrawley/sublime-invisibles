@@ -1,7 +1,6 @@
 import sublime
 import sublime_plugin
 
-
 class ToggleInvisiblesCommand(sublime_plugin.ApplicationCommand):
     def run(self):
         settings = sublime.load_settings("Preferences.sublime-settings")
