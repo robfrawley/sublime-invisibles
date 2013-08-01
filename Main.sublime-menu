@@ -1,0 +1,13 @@
+[
+    {
+        "caption": "Scribe Inc.",
+	"id": "scribe",
+        "children":
+        [
+            {
+                "caption": "Toggle Invisibles",
+                "command": "toggle_invisibles"
+            }
+        ]
+    }
+]

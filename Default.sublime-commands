@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Toggle Invisibles",
+        "command": "toggle_invisibles"
+    }
+]
