@@ -1,0 +1,11 @@
+SCRIBE: INVISIBLES
+==================
+
+Description:
+	This package provides a simple means to show and hide invisibles.
+
+Usage: 
+	- Toggle invisible characters on and off using the keyboard
+	  shortcut "Ctrl+Alt+I"
+	- Toggle invisible characters on and off using the top-level
+	  menu item within "Scribe Inc." > "Toggle Invisibles"
