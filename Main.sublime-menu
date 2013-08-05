@@ -1,12 +1,20 @@
 [
     {
         "caption": "Scribe Inc.",
-	"id": "scribe",
+	    "id": "scribe",
         "children":
         [
             {
-                "caption": "Toggle Invisibles",
-                "command": "toggle_invisibles"
+                "caption": "Display",
+                "mnemonic": "D",
+                "id": "scribe_display",
+                "children": [
+                    {
+                        "caption": "Show Invisibles",
+                        "command": "toggle_invisibles",
+                        "checkbox": true
+                    }
+                ]
             }
         ]
     }
