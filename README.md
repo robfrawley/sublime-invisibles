@@ -1,4 +1,5 @@
-sublime-invisibles
-==================
+# Sublime Text: Invisibles
+Provides both a menu and shortcut to show and hide invisible characters
 
-A simplistic Sublime Text plugin to allow for invisible to be hidden or shown via a menu item or key binding
+## Location
+This project has officially moved to [lab.dev.scribenet.com/public](http://lab.dev.scribenet.com/public), though a mirror of all development activity will continue to reside on [github.com/scribenet](https://github.com/scribenet) for the foreseeable future.
