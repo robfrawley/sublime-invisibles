@@ -10,5 +10,5 @@ class ToggleInvisiblesCommand(sublime_plugin.ApplicationCommand):
         return "off" if white_space == "selection" else "on"
 
     def is_checked(self):
-    	settings = sublime.load_settings("Preferences.sublime-settings")
+        settings = sublime.load_settings("Preferences.sublime-settings")
         return settings.get("draw_white_space", "selection") != "selection"
